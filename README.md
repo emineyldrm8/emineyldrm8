@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **emineyldrm8/emineyldrm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Emine <br></br>
+
+🌱 I’m currently studying computer engineering in Kocaeli University.I'm in my third year.<br></br>
+
+👀 I’m interested in Web Programming.<br></br>
+
+🌱 I'm still learning .Net<br></br>
+
+📫 How to reach me emineyildiriim.2@gmail.com / https://www.linkedin.com/in/emine-yildirim-79983b255/<br></br>
