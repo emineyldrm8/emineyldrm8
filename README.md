@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 👀 I’m interested in Web Programming.<br></br>
 
-🌱 I'm still learning .Net<br></br>
-
 📫 How to reach me emineyildiriim.2@gmail.com / https://www.linkedin.com/in/emine-yildirim-79983b255/<br></br>
