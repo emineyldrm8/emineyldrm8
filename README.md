@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m Emine <br></br>
 
-🌱 I’m currently studying computer engineering in Kocaeli University.I'm in my third year.<br></br>
-
-👀 I’m interested in Web Programming.<br></br>
+👀 I’m interested in Java Backend Programming.<br></br>
 
 📫 How to reach me emineyildiriim.2@gmail.com / https://www.linkedin.com/in/emine-yildirim-79983b255/<br></br>
